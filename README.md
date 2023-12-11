@@ -1,0 +1,1 @@
+para que tudo funcione perfeitamente será necessário que no servidor a qual será o zumbi tenha as portas abertas e o ssh configurado em /etc/ssh/sshd_conf que é onde se localiza as configurações do servidor que recebe a conexão e assimila a tal porta a tal ip que esteja no tunnel, também sendo necessário instalar um firewall eu aconselho o ufw que é mais simples e melhor de lidar
