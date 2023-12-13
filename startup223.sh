@@ -1,2 +1,2 @@
 #!/bin/bash
-screen -dmS tunnel223 /root/tunnel223.sh
+screen -dmS tunnel223 /root/sshtunnel/tunnel223.sh
